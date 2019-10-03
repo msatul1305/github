@@ -1,6 +1,6 @@
 # List of all github commands
-1. git clone "url" [without or without quotes]
-2. git pull origin master
-3. git add .    (or) git add *
-4. git commit -m "commit message"
-5: git push origin master
+1. clone : <b>git clone "url" </b>
+2. pull: <b>git pull origin master</b>
+3. add to track: <b>git add .    (or) git add *</b>
+4. commit: <b>git commit -m "commit message"</b>
+5: push: <b>git push origin master</b>
