@@ -4,4 +4,4 @@
   3. add to track: <b>git add .    (or) git add *</b>
   4. commit: <b>git commit -m "commit message"</b> <br>
  5: push: <b>git push origin master</b>
-
+6. html preview : http://htmlpreview.github.com/?https://github.com/bartaz/impress.js/blob/master/index.html
